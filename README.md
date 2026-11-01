@@ -25,7 +25,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [httpry](https://github.com/jbittel/httpry) – specialized packet sniffer for displaying and logging HTTP traffic.
 * [justniffer](https://github.com/onotelli/justniffer) – network protocol analyzer that captures traffic and produces customized logs.
 * [ngrep](https://github.com/jpr5/ngrep) – pcap-aware tool applying grep-like features to the network layer.
-* [ntopng](https://www.ntop.org/products/traffic-analysis/ntop/) – network traffic probe showing usage similar to the Unix `top` command.
+* [ntopng](https://www.ntop.org/products/traffic-analysis/ntopng/) – network traffic probe showing usage similar to the Unix `top` command.
 * [passivedns](https://github.com/gamelinux/passivedns) – tool to collect DNS records passively for incident handling and NSM.
 * [sagan](https://sagan.readthedocs.io/) – multi-threaded, real-time log analysis engine with a Snort-like rule set.
 
@@ -92,7 +92,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [netmap](https://github.com/luigirizzo/netmap) – framework for high speed packet I/O available for FreeBSD, Linux and Windows.
 * [PACKET_MMAP/TPACKET/AF_PACKET](https://www.kernel.org/doc/html/latest/networking/packet_mmap.html) – Linux kernel mechanism for high-performance packet capture and transmission.
 * [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/) – network socket dramatically improving packet capture speed.
-* [PF_RING ZC (Zero Copy)](https://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/) – flexible packet processing framework achieving line rate at any packet size.
+* [PF_RING ZC (Zero Copy)](https://www.ntop.org/products/packet-capture/pf_ring-zc/) – flexible packet processing framework achieving line rate at any packet size.
 * [PFQ](https://github.com/pfq/PFQ) – functional networking framework for efficient packet capture and in-kernel processing.
 
 ### 🔥 Firewall
